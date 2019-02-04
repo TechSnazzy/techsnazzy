@@ -39,3 +39,9 @@ h1 {
 .nav-item {
   padding: 0 18px;
 }
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
