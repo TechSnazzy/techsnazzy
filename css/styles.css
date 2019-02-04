@@ -110,3 +110,14 @@ p {
   border-radius: 100%;
   margin: 20px;
 }
+
+#press {
+  background-color: #0ea5c6;
+  text-align: center;
+  padding-bottom: 3%;
+}
+
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
