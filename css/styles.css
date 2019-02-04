@@ -104,3 +104,9 @@ p {
   background-color: #0ea5c6;
   color: #fff;
 }
+
+.aboutme-image {
+  width: 20%;
+  border-radius: 100%;
+  margin: 20px;
+}
