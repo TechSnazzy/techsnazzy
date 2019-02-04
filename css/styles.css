@@ -82,4 +82,9 @@ p {
 
 .icon {
   color: #074684;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #0ea5c6;
 }
