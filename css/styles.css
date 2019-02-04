@@ -24,6 +24,16 @@ h1 {
   line-height: 1.5;
 }
 
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 900;
+}
+
+p {
+  color: #8f8f8f;
+}
+
 /* Navigation Bar */
 
 .navbar {
@@ -67,4 +77,5 @@ h1 {
 
 .feature-box {
   text-align: center;
+  padding: 5%;
 }
