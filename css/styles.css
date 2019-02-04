@@ -24,10 +24,17 @@ h1 {
   line-height: 1.5;
 }
 
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  font-weight: 900;
+}
+
 h3 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.5rem;
+  font-size: 1rem;
   font-weight: 900;
+  line-height: 1.5;
 }
 
 p {
@@ -87,4 +94,13 @@ p {
 
 .icon:hover {
   color: #0ea5c6;
+}
+
+/* About Section */
+
+#aboutme {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #0ea5c6;
+  color: #fff;
 }
