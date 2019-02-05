@@ -63,10 +63,6 @@ p {
   font-weight: 300;
 }
 
-.ts-logo {
-  width: 30%;
-}
-
 /* Download Buttons */
 
 .download-button {
@@ -142,4 +138,11 @@ p {
 
 .pricing-column {
   padding: 3% 2%;
+}
+
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+    transform: rotate(0);
+  }
 }
