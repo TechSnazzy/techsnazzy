@@ -141,10 +141,6 @@ p {
 }
 
 @media (max-width: 1028px) {
-  .ts-logo {
-    width: 60%;
-  }
-
   #title {
     text-align: center;
   }
