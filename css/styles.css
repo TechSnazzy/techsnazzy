@@ -18,10 +18,6 @@ h6 {
   font-weight: 900;
 }
 
-h3 {
-  font-size: 1.5rem;
-}
-
 p {
   color: #8f8f8f;
 }
@@ -92,6 +88,10 @@ p {
   padding: 7% 15%;
   background-color: #fff;
   position: relative;
+}
+
+.feature-title {
+  font-size: 1.5rem;
 }
 
 .feature-box {
