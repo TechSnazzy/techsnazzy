@@ -6,6 +6,7 @@ Yellowish #f2efb6
 */
 body {
   font-family: 'Montserrat', sans-serif;
+  text-align: center;
 }
 
 h1,
@@ -39,6 +40,7 @@ p {
 #title {
   background-color: #005792;
   color: #fff;
+  text-align: left;
 }
 
 .container-fluid {
@@ -95,7 +97,6 @@ p {
 }
 
 .feature-box {
-  text-align: center;
   padding: 5%;
 }
 
@@ -111,7 +112,6 @@ p {
 /* About Section */
 
 #aboutme {
-  text-align: center;
   background-color: #0ea5c6;
   color: #fff;
 }
@@ -133,7 +133,6 @@ p {
 
 #press {
   background-color: #0ea5c6;
-  text-align: center;
   padding-bottom: 3%;
 }
 
@@ -146,7 +145,6 @@ p {
 
 #pricing {
   padding: 100px;
-  text-align: center;
 }
 
 .price-text {
@@ -164,21 +162,12 @@ p {
   background-color: #005792;
   color: #fff;
   padding: 7% 15%;
-  text-align: center;
-}
-
-.cta-heading {
-  font-family: 'Montserrat', sans-serif;
-  font-size: 3.5rem;
-  font-weight: 900;
-  line-height: 1.5;
 }
 
 /* Footer Section */
 
 #footer {
   padding: 7% 15%;
-  text-align: center;
 }
 
 .social-icon {
